@@ -1,0 +1,6 @@
+{
+  "name": "No Sleep Still Rich Dogs",
+  "description": "Ultra luxury dog avatar studio with 24k gold, leopard print, neon pink outfits, diamond chains, piercings, and haute couture styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
